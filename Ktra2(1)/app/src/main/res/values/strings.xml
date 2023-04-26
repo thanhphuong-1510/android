@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ktra2(1)</string>
+    <string-array name="tinh_trang">
+        <item>Chưa hoàn thành</item>
+        <item>Đang hoàn thành</item>
+        <item>Đã hoàn thành</item>
+    </string-array>
+</resources>
